@@ -120,7 +120,8 @@ document.addEventListener('DOMContentLoaded', () => {
       'Folha Adicional': { color: '#28a745', icon: '➕' },
       'Prêmio': { color: '#ffc107', icon: '🏆', textColor: '#000' },
       '1a. Parc. 13Sal.': { color: '#17a2b8', icon: '1️⃣' },
-      '2a. Parc. 13Sal.': { color: '#6f42c1', icon: '2️⃣' }
+      '2a. Parc. 13Sal.': { color: '#6f42c1', icon: '2️⃣' },
+      'Rescisão': { color: '#e13f30', icon: '❌' }
     };
 
     // Função para agrupar períodos contíguos
@@ -332,17 +333,19 @@ document.addEventListener('DOMContentLoaded', () => {
       'ZADC': 'Folha Adicional',
       'ZPDP': 'Prêmio',
       '131P': '1a. Parc. 13Sal.',
-      '1313': '2a. Parc. 13Sal.'
+      '1313': '2a. Parc. 13Sal.',
+      'RESC': 'Rescisão'
     };
     if (tipoSelect.value === '1') tipos = ['1'];
-    else if (tipoSelect.value === '2') tipos = ['1', 'ZADC', 'ZPDP', '131P', '1313'];
-    else if (tipoSelect.value === '3') tipos = ['ZADC', 'ZPDP', '131P', '1313'];
+    else if (tipoSelect.value === '2') tipos = ['1', 'ZADC', 'ZPDP', '131P', '1313', 'RESC'];
+    else if (tipoSelect.value === '3') tipos = ['ZADC', 'ZPDP', '131P', '1313', 'RESC'];
     /* 
     1 - Normal;
     ZADC - Folha Adicional
     ZPDP - Prêmio
     131P - 1a. Parc. 13Sal.
     1313 - 2a. Parc. 13Sal.
+    RESC - Rescisão
     */
     const { PDFDocument } = window.PDFLib;
 

@@ -79,7 +79,7 @@ Extensão do Google Chrome para **baixar contracheques de forma prática e autom
 Este projeto é fornecido **apenas para uso pessoal e privado**.  
 ⚠️ **Não é permitido modificar, adaptar, redistribuir, vender ou utilizar este código para fins comerciais** sem autorização prévia e por escrito do autor.
 
-Para mais detalhes, consulte o arquivo [LICENSE](https://github.com/davidvasconcellos/PaySlip_Plus/tree/main?tab=License-1-ov-file).
+Para mais detalhes, consulte o arquivo [LICENSE](https://github.com/davidvasconcellos/PaySlip_Plus/tree/main?tab=License-1-ov-filexit).
 
 
 **Versão:** 3.1.1 – 24/09/2025
