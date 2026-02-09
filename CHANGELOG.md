@@ -3,6 +3,10 @@
 Todas as alterações notáveis neste projeto são documentadas neste arquivo.
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/) e segue [Versionamento Semântico](https://semver.org/lang/pt-BR/).
 
+## [3.1.2] - 09/02/2026
+### Adicionado
+- Implementação da nova verba **RESC – Rescisão** na extração de dados de contracheques.
+
 ## [3.1.1] - 24/09/2025
 ### Adicionado
 - Descrição detalhada para os tipos de contracheques.

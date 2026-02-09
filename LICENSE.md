@@ -1,6 +1,6 @@
 # 🛡️ Licença de Uso – PaySlip Plus
 
-© 2025 David Vasconcellos. **Todos os direitos reservados.**
+© 2026 David Vasconcellos. **Todos os direitos reservados.**
 
 ---
 

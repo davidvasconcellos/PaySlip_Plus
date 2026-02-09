@@ -1,7 +1,7 @@
 /*!
  * Autor: David Vasconcellos
  * Email: davidvasconcellos16@gmail.com
- * Direitos autorais reservados - 2025
+ * Direitos autorais reservados - 2026
  */
 
 document.addEventListener('DOMContentLoaded', () => {

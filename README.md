@@ -13,10 +13,10 @@
 ---
 
 <p align="center">
-  <b>Versão atual:</b> 3.1.1 • 
+  <b>Versão atual:</b> 3.1.2 • 
   <b>Autor:</b> David Vasconcellos •  
   <b>Data de criação:</b> 19/08/2025 • 
-  <b>Última atualização:</b> 24/09/2025
+  <b>Última atualização:</b> 09/02/2026
 </p>
 
 Extensão do Google Chrome para **baixar contracheques de forma prática e automatizada**. Permite selecionar múltiplas matrículas, períodos e tipos de contracheques, gerando um **PDF final consolidado por matrícula**.
@@ -74,7 +74,7 @@ Extensão do Google Chrome para **baixar contracheques de forma prática e autom
 
 ## 📄 Licença
 
-© 2025 David Vasconcellos. **Todos os direitos reservados.**
+© 2025-2026 David Vasconcellos. **Todos os direitos reservados.**
 
 Este projeto é fornecido **apenas para uso pessoal e privado**.  
 ⚠️ **Não é permitido modificar, adaptar, redistribuir, vender ou utilizar este código para fins comerciais** sem autorização prévia e por escrito do autor.
@@ -82,4 +82,4 @@ Este projeto é fornecido **apenas para uso pessoal e privado**.
 Para mais detalhes, consulte o arquivo [LICENSE](https://github.com/davidvasconcellos/PaySlip_Plus/tree/main?tab=License-1-ov-filexit).
 
 
-**Versão:** 3.1.1 – 24/09/2025
+**Versão:** 3.1.2 – 09/02/2026
